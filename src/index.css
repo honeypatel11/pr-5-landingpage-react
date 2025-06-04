@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    list-style: none;
+    font-family: "Lato", sans-serif;
+}
+
+.nav {
+    font-size: 16px;
+    cursor: pointer;
+    color: #575756;
+    transition: 0.2s all linear;
+    font-weight: 400;
+}
+
+.nav:hover {
+    color: #06a1f4;
+}
+
+.buy {
+    font-size: 16px;
+    font-weight: 600 !important;
+    background-color: #40affb;
+    border-radius: 7px;
+    padding: 8px;
+    border: none;
+    color: white;
+    transition: 0.2s all linear;
+}
+
+.buy:hover {
+    background-color: #a1c627;
+}
+
+.home-page{
+    background-image: url('../public/image/web-app-hbg.jpg');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.home-imge{
+    margin-top: 60px !important;
+}

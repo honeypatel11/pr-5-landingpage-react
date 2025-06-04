@@ -1,10 +1,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Nav from './component/Nav'
+import Header from './component/Header';
+import Startup from './component/Startup';
+import Feature from './component/Feature';
 
 const App = () => {
   return (
     <div>
- <Nav/>
+      <Header />
+      <Startup/>
+      <Feature/>
     </div>
   )
 }
