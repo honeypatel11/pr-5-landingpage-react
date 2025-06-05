@@ -11,9 +11,9 @@ const Startup = () => {
                 </div>
                 <div className='text-center pt-4'>
                     <button className='btn btn-danger' >Download</button>
-                    <button className='btn ms-2'>Take a tour</button>
+                    <button className='btn btn-primary ms-2'>Take a tour</button>
                 </div>
-                <div className=' home-imge text-center'>
+                <div className='home-imge text-center'>
                     <img src="./public/image/application-image.png" alt="" />
                 </div>
             </div>

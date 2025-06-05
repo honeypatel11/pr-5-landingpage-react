@@ -32,12 +32,72 @@
     background-color: #a1c627;
 }
 
-.home-page{
+.home-page {
     background-image: url('../public/image/web-app-hbg.jpg');
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
 }
-.home-imge{
+
+.home-imge {
     margin-top: 60px !important;
+}
+
+.fea-icon {
+    color: #81a5bf;
+}
+
+.fea-des {
+    font-size: 20px;
+    font-weight: 700;
+    color: #222222;
+
+}
+
+.fea-description {
+    color: #575756;
+    font-size: 16px;
+
+}
+
+.fea-sub-title {
+    color: #81a5bf;
+    font-size: 30px;
+    line-height: 44px;
+    font-weight: 300;
+}
+
+.fea-main-title {
+    font-size: 50px;
+    line-height: 66px;
+    color: #293749;
+    margin-top: 70px;
+}
+
+.bg-responsive {
+    background-color: #7ea2bb;
+
+}
+
+.res-img {
+    margin-top: 40px;
+
+}
+
+.res-des {
+    color: #293749;
+    margin: 0 0 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 16px;
+
+}
+
+.future-icon {
+    font-size: 72px;
+    color: #81a5bf;
+    border-bottom: 2px solid #81a5bf;
+    width: 130px;
+    padding-bottom: 20px;
+    margin: 0px 117.5px 35px;
 }

@@ -2,6 +2,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './component/Header';
 import Startup from './component/Startup';
 import Feature from './component/Feature';
+import Responsive from './component/Responsive';
+import Future from './component/Future';
 
 const App = () => {
   return (
@@ -9,6 +11,8 @@ const App = () => {
       <Header />
       <Startup/>
       <Feature/>
+      <Responsive/>
+      <Future/>
     </div>
   )
 }
