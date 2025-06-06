@@ -4,6 +4,7 @@ import Startup from './component/Startup';
 import Feature from './component/Feature';
 import Responsive from './component/Responsive';
 import Future from './component/Future';
+import Team from './component/Team';
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Feature/>
       <Responsive/>
       <Future/>
+      <Team/>
     </div>
   )
 }
