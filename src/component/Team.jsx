@@ -16,11 +16,23 @@ const Team = () => {
         </div>
         <div className="row">
             <div className="col-6">
-                <div>
+                <div className='d-flex'>
                 <div className='profile-img'>
                     <img src="/image/profile1.jpg" alt="" />
                 </div>
-                <div></div>
+                <div className='mt-5'>
+                    <h3>Isabella Martinez</h3>
+                    <small>CEO / CO-FOUNDER</small>
+                <div>
+                    <p>Lorem ipsum dolor sit amet, consetet <br /> sadipscing elitr, sed diam nonumy <br /> eirmod tempor invidunt ut labore et <br /> dolore magna aliquyam.</p>
+                </div>
+                </div>
+                {/* <div>
+                <i class="fa fa-fw fa-facebook"></i>
+                <i class="fa fa-fw fa-twitter"></i>
+                <i class="fa fa-fw fa-google-plus"></i>
+                <i class="fa fa-fw fa-at"></i>
+                </div> */}
                 </div>
             </div>
             <div className="col-6">
