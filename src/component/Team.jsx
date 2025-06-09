@@ -20,11 +20,11 @@ const Team = () => {
                 <div className='profile-img'>
                     <img src="/image/profile1.jpg" alt="" />
                 </div>
-                <div className='mt-5'>
-                    <h3>Isabella Martinez</h3>
-                    <small>CEO / CO-FOUNDER</small>
+                <div className='mt-5 mx-3'>
+                    <h3 className='profile-name'>Isabella Martinez</h3>
+                    <small className='profile-subdes'>CEO / CO-FOUNDER</small>
                 <div>
-                    <p>Lorem ipsum dolor sit amet, consetet <br /> sadipscing elitr, sed diam nonumy <br /> eirmod tempor invidunt ut labore et <br /> dolore magna aliquyam.</p>
+                    <p className='profile-des'>Lorem ipsum dolor sit amet, consetet <br /> sadipscing elitr, sed diam nonumy <br /> eirmod tempor invidunt ut labore et <br /> dolore magna aliquyam.</p>
                 </div>
                 </div>
                 {/* <div>
