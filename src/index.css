@@ -168,17 +168,15 @@
 }
 
 .profile-name {
-    margin: 0px 0px 15px;
+ 
     font-size: 20px;
     color: #428Bff;
 }
-
 .profile-des {
-    margin: 0px 0px 25px;
+   
     color: #575756;
     font-size: 16px;
 }
-
 .profile-subdes {
     /* margin: 0px 0px 15px; */
     font-size: 16px;
