@@ -51,7 +51,7 @@ const Feature = () => {
                         </div>
                         <div className="col-6">
                             <div>
-                                <img src="./public/image/Feature-img.png" alt="" />
+                                <img src="./image/Feature-img.png" alt="" />
                             </div>
                         </div>
                     </div>

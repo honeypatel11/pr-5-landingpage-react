@@ -33,7 +33,7 @@
 }
 
 .home-page {
-    background-image: url('../public/image/web-app-hbg.jpg');
+    background-image: url('/image/web-app-hbg.jpg');
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@
 }
 
 .edu-img {
-    background-image: url('../public/image/maxresdefault.webp');
+    background-image: url('/image/maxresdefault.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

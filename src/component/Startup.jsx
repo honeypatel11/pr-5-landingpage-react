@@ -13,7 +13,7 @@ const Startup = () => {
                     <button className='btn btn-primary ms-2'>Take a tour</button>
                 </div>
                 <div className='home-imge text-center'>
-                    <img src="./image/application-image.png" alt="" />
+                    <img src="/image/application-image.png" alt="" />
                 </div>
             </div>
         </section>
