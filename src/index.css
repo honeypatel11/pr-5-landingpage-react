@@ -168,18 +168,38 @@
 }
 
 .profile-name {
- 
+    margin: 0px 0px 15px;
     font-size: 20px;
     color: #428Bff;
 }
+
 .profile-des {
-   
+    margin: 0px 0px 25px ;
     color: #575756;
     font-size: 16px;
 }
+
 .profile-subdes {
-    /* margin: 0px 0px 15px; */
+    margin: 0px 0px 15px;
     font-size: 16px;
     color: #575756;
-
+    font-weight: 700;
+}
+.team-icon{
+    font-weight: 400;
+    font-size: 20px;
+}
+.icon1 i{
+    color: #fff;
+    background-color: #81a5bf;
+    width: 42px;
+    height: 42px;
+    display: block;
+    font-size: 22px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 25px;
+    margin-right: 10px;
+    border: 2px solid transparent;
+    transition: all 0.5s ease-out;
 }
